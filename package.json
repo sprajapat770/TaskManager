@@ -1,6 +1,7 @@
 {
-  "name": "todovite",
+  "name": "taskmaster",
   "private": true,
+  "description": "A sleek and intuitive task management app built with React, Vite, and Tailwind CSS for efficient task organization and prioritization.",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
